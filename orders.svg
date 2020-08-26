@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="640" viewBox="0 0 360 640">
+  <defs>
+    <clipPath id="clip-orders">
+      <rect width="360" height="640"/>
+    </clipPath>
+  </defs>
+  <g id="orders" clip-path="url(#clip-orders)">
+    <rect width="360" height="640" fill="#fff"/>
+    <rect id="Rectangle_615" data-name="Rectangle 615" width="360" height="68" fill="#c92815"/>
+    <g id="back" transform="translate(16.9 -11.063)">
+      <g id="Group_1964" data-name="Group 1964" transform="translate(0 31.842)">
+        <path id="Path_445" data-name="Path 445" d="M34.87,43.194a3.1,3.1,0,0,0-.459-.029H8.237l.571-.227a5.388,5.388,0,0,0,1.5-.906l7.34-6.263a2.1,2.1,0,0,0,.385-3,2.962,2.962,0,0,0-3.71-.489,2.6,2.6,0,0,0-.272.195L.778,43.8a2.038,2.038,0,0,0,0,3.2l0,0L14.051,58.33a2.987,2.987,0,0,0,3.754,0,2.426,2.426,0,0,0,.228-.222,2.1,2.1,0,0,0-.385-3l-7.326-6.274A5.357,5.357,0,0,0,8.994,48L8.2,47.7H34.265a2.689,2.689,0,0,0,2.8-1.9A2.336,2.336,0,0,0,34.87,43.194Z" transform="translate(0 -31.842)" fill="#f8f4f7"/>
+      </g>
+    </g>
+    <text id="Orders-2" data-name="Orders" transform="translate(180 51)" fill="#f8f4f7" font-size="41" font-family="SegoeUI, Segoe UI"><tspan x="-61.2" y="0">Orders</tspan></text>
+    <text id="No_Orders_Found." data-name="No Orders Found." transform="translate(180 365)" fill="#c92815" font-size="29" font-family="SegoeUI, Segoe UI"><tspan x="-114.244" y="0">No Orders Found.</tspan></text>
+    <g id="sad" transform="translate(137 234)">
+      <g id="Group_2023" data-name="Group 2023">
+        <g id="Group_2022" data-name="Group 2022">
+          <path id="Path_546" data-name="Path 546" d="M43.179,0A43.179,43.179,0,1,0,86.359,43.179,43.229,43.229,0,0,0,43.179,0Zm0,82.6A39.425,39.425,0,1,1,82.6,43.179,39.468,39.468,0,0,1,43.179,82.6Z"/>
+          <path id="Path_547" data-name="Path 547" d="M107.264,133.632a5.632,5.632,0,1,0-5.632,5.632A5.639,5.639,0,0,0,107.264,133.632Zm-7.509,0a1.877,1.877,0,1,1,1.877,1.877A1.88,1.88,0,0,1,99.755,133.632Z" transform="translate(-73.472 -97.962)"/>
+          <path id="Path_548" data-name="Path 548" d="M229.632,128a5.632,5.632,0,1,0,5.632,5.632A5.639,5.639,0,0,0,229.632,128Zm0,7.509a1.877,1.877,0,1,1,1.877-1.877A1.879,1.879,0,0,1,229.632,135.509Z" transform="translate(-171.434 -97.962)"/>
+          <path id="Path_549" data-name="Path 549" d="M122.776,224a24.56,24.56,0,0,0-18.295,8.135,1.877,1.877,0,0,0,2.8,2.5,20.886,20.886,0,0,1,31,0,1.877,1.877,0,0,0,2.8-2.5A24.564,24.564,0,0,0,122.776,224Z" transform="translate(-79.596 -171.434)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

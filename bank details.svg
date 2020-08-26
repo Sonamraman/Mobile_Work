@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="640" viewBox="0 0 360 640">
+  <defs>
+    <clipPath id="clip-bank_details">
+      <rect width="360" height="640"/>
+    </clipPath>
+  </defs>
+  <g id="bank_details" data-name="bank details" clip-path="url(#clip-bank_details)">
+    <rect width="360" height="640" fill="#fff"/>
+    <g id="Group_2209" data-name="Group 2209">
+      <rect id="Rectangle_615" data-name="Rectangle 615" width="360" height="68" transform="translate(-1)" fill="#c92815"/>
+      <g id="back" transform="translate(15.9 -11.063)">
+        <g id="Group_1964" data-name="Group 1964" transform="translate(0 31.842)">
+          <path id="Path_445" data-name="Path 445" d="M34.87,43.194a3.1,3.1,0,0,0-.459-.029H8.237l.571-.227a5.388,5.388,0,0,0,1.5-.906l7.34-6.263a2.1,2.1,0,0,0,.385-3,2.962,2.962,0,0,0-3.71-.489,2.6,2.6,0,0,0-.272.195L.778,43.8a2.038,2.038,0,0,0,0,3.2l0,0L14.051,58.33a2.987,2.987,0,0,0,3.754,0,2.426,2.426,0,0,0,.228-.222,2.1,2.1,0,0,0-.385-3l-7.326-6.274A5.357,5.357,0,0,0,8.994,48L8.2,47.7H34.265a2.689,2.689,0,0,0,2.8-1.9A2.336,2.336,0,0,0,34.87,43.194Z" transform="translate(0 -31.842)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Payment" transform="translate(180 48)" fill="#f8f4f7" font-size="34" font-family="SegoeUI, Segoe UI"><tspan x="-64.729" y="0">Payment</tspan></text>
+    </g>
+    <text id="Netbanking" transform="translate(90 129)" fill="#c92815" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="-67.165" y="0">Netbanking</tspan></text>
+    <text id="Bank_Name_" data-name="Bank Name " transform="translate(90 167)" fill="rgba(0,5,7,0.99)" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-50.673" y="0">Bank Name </tspan></text>
+    <g id="rectangle">
+      <g id="Rectangle_678" data-name="Rectangle 678" transform="translate(15 202)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="330" height="330" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="329" height="329" rx="9.5" fill="none"/>
+      </g>
+      <g id="Path_642" data-name="Path 642" transform="translate(15 202)" fill="#fff">
+        <path d="M 0.5 58.4986457824707 L 0.5 48 L 0.5 11 C 0.5 5.210291862487793 5.210291862487793 0.5 11 0.5 L 319 0.5 C 324.7897033691406 0.5 329.5 5.210291862487793 329.5 11 L 329.5 48 C 329.5 50.46908187866211 329.4649658203125 52.42645645141602 329.4367980957031 53.99924850463867 C 329.4058227539063 55.7290153503418 329.3851318359375 56.88566207885742 329.4335021972656 57.61040115356445 L 0.5 58.4986457824707 Z" stroke="none"/>
+        <path d="M 11 1 C 5.485992431640625 1 1 5.486000061035156 1 11 L 1 48 L 1 57.99729156494141 L 328.9116516113281 57.1118049621582 C 328.8939819335938 56.38691711425781 328.9119262695313 55.38525390625 328.9368896484375 53.99029159545898 C 328.9649963378906 52.41949844360352 329 50.46462631225586 329 48 L 329 11 C 329 5.486000061035156 324.5140075683594 1 319 1 L 11 1 M 11 0 L 319 0 C 325.0751342773438 0 330 4.924873352050781 330 11 L 330 48 C 330 54.07512664794922 329.7853698730469 57.21779251098633 330 58.1088752746582 L 0 59 C 0 59 0 51.38991546630859 0 48 L 0 11 C 0 4.924873352050781 4.92486572265625 0 11 0 Z" stroke="none" fill="#707070"/>
+      </g>
+    </g>
+    <line id="Line_79" data-name="Line 79" y2="29" transform="translate(180.5 217.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Component_90_1" data-name="Component 90 – 1" transform="translate(15 219)">
+      <text id="MPIN_Login" data-name="MPIN Login" transform="translate(77 21)" fill="#707070" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-49.397" y="0">MPIN Login</tspan></text>
+      <rect id="MPIN_rectangle" data-name="MPIN rectangle" width="165" height="7" transform="translate(0 34)" fill="#c92815"/>
+      <text id="Login_ID" data-name="Login ID" transform="translate(240 21)" fill="#707070" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-35.101" y="0">Login ID</tspan></text>
+      <text id="Select" transform="translate(39 65)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-20.961" y="0">Select</tspan></text>
+      <text id="or" transform="translate(134 97)" fill="#707070" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="-7.936" y="0">or</tspan></text>
+      <g id="Component_89_1" data-name="Component 89 – 1" transform="translate(17.5 79)">
+        <text id="Cust_ID" data-name="Cust ID" transform="translate(57.5 21)" fill="#707070" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="-27.11" y="0">Cust ID</tspan></text>
+        <text id="Regd_Mob_No" data-name="Regd Mob No" transform="translate(227.5 18)" fill="#707070" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="-52.897" y="0">Regd Mob No</tspan></text>
+        <g id="reg_mob_radio_button" data-name="reg mob radio button" transform="translate(105.5 -303)">
+          <g id="Ellipse_158" data-name="Ellipse 158" transform="translate(43 308)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+            <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+          </g>
+        </g>
+        <g id="cust_radio_button" data-name="cust radio button" transform="translate(-38.5 -303)">
+          <g id="Ellipse_158-2" data-name="Ellipse 158" transform="translate(43 308)" fill="#fff" stroke="#c92815" stroke-width="1">
+            <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+            <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+          </g>
+          <circle id="Ellipse_159" data-name="Ellipse 159" cx="4.5" cy="4.5" r="4.5" transform="translate(47 312)" fill="#c92815"/>
+        </g>
+        <g id="Customer_ID" data-name="Customer ID" transform="translate(-32.5 -162)">
+          <text id="Customer_ID-2" data-name="Customer ID" transform="translate(85 222)" fill="#707070" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-52.32" y="0">Customer ID</tspan></text>
+          <line id="Line_77" data-name="Line 77" x2="296" transform="translate(32.5 234.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+        <g id="MPIN" transform="translate(-32.5 -99)">
+          <text id="MPIN-2" data-name="MPIN" transform="translate(56 222)" fill="#707070" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-23.486" y="0">MPIN</tspan></text>
+          <line id="Line_77-2" data-name="Line 77" x2="296" transform="translate(32.5 234.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="Login_button_" data-name="Login button " transform="translate(25 -15)">
+      <g id="Group_1947" data-name="Group 1947" transform="translate(62.5 276)">
+        <rect id="Rectangle_604" data-name="Rectangle 604" width="130" height="41" rx="20.5" transform="translate(27.5 196)" fill="#720c03" opacity="0.59"/>
+        <rect id="Rectangle_603" data-name="Rectangle 603" width="130" height="41" rx="20.5" transform="translate(27.5 196)" fill="#c92c27"/>
+        <rect id="Rectangle_602" data-name="Rectangle 602" width="130" height="41" rx="20.5" transform="translate(27.5 196)" fill="#c41d18"/>
+      </g>
+      <text id="LOGIN" transform="translate(153 499)" fill="#f8f4f7" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-27.461" y="0">LOGIN</tspan></text>
+    </g>
+  </g>
+</svg>

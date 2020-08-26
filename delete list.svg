@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="640" viewBox="0 0 360 640">
+  <defs>
+    <clipPath id="clip-delete_list">
+      <rect width="360" height="640"/>
+    </clipPath>
+  </defs>
+  <g id="delete_list" data-name="delete list" clip-path="url(#clip-delete_list)">
+    <rect width="360" height="640" fill="#fff"/>
+    <rect id="Rectangle_615" data-name="Rectangle 615" width="360" height="68" transform="translate(-1)" fill="#c92815"/>
+    <g id="back" transform="translate(15.9 -11.063)">
+      <g id="Group_1964" data-name="Group 1964" transform="translate(0 31.842)">
+        <path id="Path_445" data-name="Path 445" d="M34.87,43.194a3.1,3.1,0,0,0-.459-.029H8.237l.571-.227a5.388,5.388,0,0,0,1.5-.906l7.34-6.263a2.1,2.1,0,0,0,.385-3,2.962,2.962,0,0,0-3.71-.489,2.6,2.6,0,0,0-.272.195L.778,43.8a2.038,2.038,0,0,0,0,3.2l0,0L14.051,58.33a2.987,2.987,0,0,0,3.754,0,2.426,2.426,0,0,0,.228-.222,2.1,2.1,0,0,0-.385-3l-7.326-6.274A5.357,5.357,0,0,0,8.994,48L8.2,47.7H34.265a2.689,2.689,0,0,0,2.8-1.9A2.336,2.336,0,0,0,34.87,43.194Z" transform="translate(0 -31.842)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="Wishlist" transform="translate(180 50)" fill="#f8f4f7" font-size="37" font-family="SegoeUI, Segoe UI"><tspan x="-63.16" y="0">Wishlist</tspan></text>
+    <text id="Not_Added_Yet." data-name="Not Added Yet." transform="translate(180 363)" fill="#c92815" font-size="29" font-family="SegoeUI, Segoe UI"><tspan x="-97.132" y="0">Not Added Yet.</tspan></text>
+    <text id="User_s_Wishlist" data-name="User&apos;s Wishlist" transform="translate(98 125)" fill="#c92815" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="-82.215" y="0">User&apos;s Wishlist</tspan></text>
+    <text id="View_Lists" data-name="View Lists" transform="translate(282 122)" fill="#152dc9" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-38.549" y="0">View Lists</tspan></text>
+    <line id="Line_61" data-name="Line 61" x2="359" transform="translate(1.5 152.5)" fill="none" stroke="#c92815" stroke-width="1"/>
+    <text id="Public" transform="translate(40 148)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-23.941" y="0">Public</tspan></text>
+    <line id="Line_62" data-name="Line 62" y2="27" transform="translate(326.5 101.5)" fill="none" stroke="#c92815" stroke-width="1"/>
+    <line id="Line_63" data-name="Line 63" x2="359" transform="translate(1.5 210.5)" fill="none" stroke="#c92815" stroke-width="1"/>
+    <g id="menu_2_" data-name="menu (2)" transform="translate(16 167)">
+      <g id="Group_2039" data-name="Group 2039">
+        <g id="Group_2038" data-name="Group 2038">
+          <path id="Path_563" data-name="Path 563" d="M12.636,0H1.108A1.112,1.112,0,0,0,0,1.108V12.636a1.112,1.112,0,0,0,1.108,1.108H12.636a1.112,1.112,0,0,0,1.108-1.108V1.108A1.112,1.112,0,0,0,12.636,0ZM11.528,11.528H2.217V2.217h9.311Z"/>
+        </g>
+      </g>
+      <g id="Group_2041" data-name="Group 2041" transform="translate(16.183)">
+        <g id="Group_2040" data-name="Group 2040">
+          <path id="Path_564" data-name="Path 564" d="M158.636,0H147.108A1.112,1.112,0,0,0,146,1.108V12.636a1.112,1.112,0,0,0,1.108,1.108h11.528a1.112,1.112,0,0,0,1.108-1.108V1.108A1.112,1.112,0,0,0,158.636,0Zm-1.108,11.528h-9.311V2.217h9.311Z" transform="translate(-146)"/>
+        </g>
+      </g>
+      <g id="Group_2043" data-name="Group 2043" transform="translate(0 16.183)">
+        <g id="Group_2042" data-name="Group 2042">
+          <path id="Path_565" data-name="Path 565" d="M12.636,146H1.108A1.112,1.112,0,0,0,0,147.108v11.528a1.112,1.112,0,0,0,1.108,1.108H12.636a1.112,1.112,0,0,0,1.108-1.108V147.108A1.112,1.112,0,0,0,12.636,146Zm-1.108,11.528H2.217v-9.311h9.311Z" transform="translate(0 -146)"/>
+        </g>
+      </g>
+      <g id="Group_2045" data-name="Group 2045" transform="translate(16.183 16.183)">
+        <g id="Group_2044" data-name="Group 2044">
+          <path id="Path_566" data-name="Path 566" d="M158.636,146H147.108A1.112,1.112,0,0,0,146,147.108v11.528a1.112,1.112,0,0,0,1.108,1.108h11.528a1.112,1.112,0,0,0,1.108-1.108V147.108A1.112,1.112,0,0,0,158.636,146Zm-1.108,11.528h-9.311v-9.311h9.311Z" transform="translate(-146 -146)"/>
+        </g>
+      </g>
+    </g>
+    <g id="menu" transform="translate(70.093 150.601)">
+      <g id="Group_2047" data-name="Group 2047" transform="translate(0 17.067)">
+        <g id="Group_2046" data-name="Group 2046">
+          <path id="Path_567" data-name="Path 567" d="M30.59,17.067H1.33a1.33,1.33,0,1,0,0,2.66H30.59a1.33,1.33,0,1,0,0-2.66Z" transform="translate(0 -17.067)"/>
+        </g>
+      </g>
+      <g id="Group_2049" data-name="Group 2049" transform="translate(0 30.367)">
+        <g id="Group_2048" data-name="Group 2048">
+          <path id="Path_568" data-name="Path 568" d="M30.59,187.733H1.33a1.33,1.33,0,0,0,0,2.66H30.59a1.33,1.33,0,1,0,0-2.66Z" transform="translate(0 -187.733)"/>
+        </g>
+      </g>
+      <g id="Group_2051" data-name="Group 2051" transform="translate(0 43.667)">
+        <g id="Group_2050" data-name="Group 2050">
+          <path id="Path_569" data-name="Path 569" d="M30.59,358.4H1.33a1.33,1.33,0,0,0,0,2.66H30.59a1.33,1.33,0,1,0,0-2.66Z" transform="translate(0 -358.4)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Component_42_3" data-name="Component 42 – 3" transform="translate(16 218)">
+      <g id="Group_2034" data-name="Group 2034" transform="translate(-20 -255)">
+        <path id="plus" d="M23.587,10.637H15.725a.463.463,0,0,1-.462-.462V2.312a2.312,2.312,0,0,0-4.625,0v7.862a.463.463,0,0,1-.462.462H2.312a2.312,2.312,0,0,0,0,4.625h7.862a.463.463,0,0,1,.462.462v7.862a2.312,2.312,0,0,0,4.625,0V15.725a.463.463,0,0,1,.462-.462h7.862a2.312,2.312,0,0,0,0-4.625Zm0,0" transform="translate(20 263)" fill="#c92815"/>
+        <text id="Add_an_idea" data-name="Add an idea" transform="translate(133 286)" fill="#c92815" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="-69.005" y="0">Add an idea</tspan></text>
+      </g>
+    </g>
+    <line id="Line_64" data-name="Line 64" y2="27" transform="translate(237.5 101.5)" fill="none" stroke="#c92815" stroke-width="1"/>
+    <line id="Line_65" data-name="Line 65" x2="359" transform="translate(1.5 266.5)" fill="none" stroke="#c92815" stroke-width="1"/>
+    <g id="Component_46_4" data-name="Component 46 – 4" transform="translate(318.666 167.767)">
+      <path id="Path_444" data-name="Path 444" d="M18.571,16.36A10.5,10.5,0,0,0,16.149,1.907,10.038,10.038,0,0,0,1.979,4.378,10.5,10.5,0,0,0,4.4,18.831a10,10,0,0,0,11.043.466l7.495,7.6a2.1,2.1,0,0,0,3.007.078,2.2,2.2,0,0,0,.078-3.067c-.026-.028-.05-.053-.078-.079Zm-8.3.708a6.623,6.623,0,0,1-6.558-6.684A6.622,6.622,0,0,1,10.264,3.7a6.621,6.621,0,0,1,6.557,6.673,6.624,6.624,0,0,1-6.547,6.7Zm0,0" transform="matrix(0.999, -0.052, 0.052, 0.999, -0.109, 1.393)" fill="#c92815"/>
+    </g>
+    <g id="Component_49_3" data-name="Component 49 – 3" transform="translate(332.201 112)">
+      <g id="more" transform="translate(0 -170.666)">
+        <g id="Group_2028" data-name="Group 2028" transform="translate(0 170.666)">
+          <g id="Group_2027" data-name="Group 2027">
+            <circle id="Ellipse_137" data-name="Ellipse 137" cx="3" cy="3" r="3" fill="#707070"/>
+          </g>
+        </g>
+        <g id="Group_2030" data-name="Group 2030" transform="translate(7.5 170.666)">
+          <g id="Group_2029" data-name="Group 2029">
+            <circle id="Ellipse_138" data-name="Ellipse 138" cx="3" cy="3" r="3" fill="#707070"/>
+          </g>
+        </g>
+        <g id="Group_2032" data-name="Group 2032" transform="translate(15 170.666)">
+          <g id="Group_2031" data-name="Group 2031">
+            <circle id="Ellipse_139" data-name="Ellipse 139" cx="3" cy="3" r="3" fill="#707070"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2078" data-name="Group 2078" transform="translate(0 -44)">
+      <g id="Rectangle_666" data-name="Rectangle 666" transform="translate(37 303)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="287" height="177" stroke="none"/>
+        <rect x="0.5" y="0.5" width="286" height="176" fill="none"/>
+      </g>
+      <line id="Line_68" data-name="Line 68" x2="287" transform="translate(36.5 415.5)" fill="none" stroke="#c92815" stroke-width="1"/>
+      <line id="Line_69" data-name="Line 69" x2="287" transform="translate(36.5 341.5)" fill="none" stroke="#c92815" stroke-width="1"/>
+      <text id="Are_you_sure_you_want_to_delete_this_list_" data-name="Are you sure you want to delete
+this list?" transform="translate(53 367)" fill="rgba(0,5,7,0.99)" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Are you sure you want to delete</tspan><tspan x="0" y="24">this list?</tspan></text>
+      <text id="Confirm_delete" data-name="Confirm delete" transform="translate(128 329)" fill="#c92815" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="-81.848" y="0">Confirm delete</tspan></text>
+      <path id="close" d="M10.442,7.851,15.3,2.994a1.373,1.373,0,0,0,0-1.943L14.652.4a1.373,1.373,0,0,0-1.943,0L7.852,5.261,2.994.4A1.373,1.373,0,0,0,1.052.4L.4,1.05a1.373,1.373,0,0,0,0,1.943L5.261,7.851.4,12.708a1.373,1.373,0,0,0,0,1.943l.648.648a1.373,1.373,0,0,0,1.943,0l4.857-4.857L12.709,15.3a1.373,1.373,0,0,0,1.943,0l.648-.648a1.373,1.373,0,0,0,0-1.943Zm0,0" transform="translate(299 312)"/>
+      <g id="Group_2206" data-name="Group 2206">
+        <g id="Group_1947" data-name="Group 1947" transform="translate(40 231)">
+          <rect id="Rectangle_604" data-name="Rectangle 604" width="103" height="41" rx="20.5" transform="translate(27 196)" fill="#720c03" opacity="0.59"/>
+          <rect id="Rectangle_603" data-name="Rectangle 603" width="103" height="41" rx="20.5" transform="translate(27 196)" fill="#c92c27"/>
+          <rect id="Rectangle_602" data-name="Rectangle 602" width="103" height="41" rx="20.5" transform="translate(27 196)" fill="#c41d18"/>
+        </g>
+        <text id="Cancel" transform="translate(119 456)" fill="#f8f4f7" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-27.749" y="0">Cancel</tspan></text>
+      </g>
+      <g id="Group_2207" data-name="Group 2207">
+        <g id="Group_2077" data-name="Group 2077" transform="translate(159 231)">
+          <rect id="Rectangle_604-2" data-name="Rectangle 604" width="103" height="41" rx="20.5" transform="translate(27 196)" fill="#720c03" opacity="0.59"/>
+          <rect id="Rectangle_603-2" data-name="Rectangle 603" width="103" height="41" rx="20.5" transform="translate(27 196)" fill="#c92c27"/>
+          <rect id="Rectangle_602-2" data-name="Rectangle 602" width="103" height="41" rx="20.5" transform="translate(27 196)" fill="#c41d18"/>
+        </g>
+        <text id="Yes" transform="translate(238 456)" fill="#f8f4f7" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-13.415" y="0">Yes</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
